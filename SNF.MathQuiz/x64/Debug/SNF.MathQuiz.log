@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\foxs1\source\repos\SNF.MathQuiz\SNF.MathQuiz\Main.cpp(29,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SNF.MathQuiz.vcxproj -> C:\Users\foxs1\source\repos\SNF.MathQuiz\x64\Debug\SNF.MathQuiz.exe

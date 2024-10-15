@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\foxs1\\source\\repos\\SNF.MathQuiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A11916E-87C5-4A06-A014-2DC96C2E79F1}|SNF.MathQuiz\\SNF.MathQuiz.vcxproj|C:\\Users\\foxs1\\source\\repos\\SNF.MathQuiz\\SNF.MathQuiz\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A11916E-87C5-4A06-A014-2DC96C2E79F1}|SNF.MathQuiz\\SNF.MathQuiz.vcxproj|solutionrelative:SNF.MathQuiz\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 236,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\foxs1\\source\\repos\\SNF.MathQuiz\\SNF.MathQuiz\\Main.cpp",
+              "RelativeDocumentMoniker": "SNF.MathQuiz\\Main.cpp",
+              "ToolTip": "C:\\Users\\foxs1\\source\\repos\\SNF.MathQuiz\\SNF.MathQuiz\\Main.cpp",
+              "RelativeToolTip": "SNF.MathQuiz\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-10T14:14:18.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
